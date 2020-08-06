@@ -71,7 +71,9 @@
       </plugins>
     </pluginManagement>
   </build>
-<modules>  <module>xml</module>
+  <modules>
+    <module>xml</module>
+    <module>json</module>
     <module>native</module>
   </modules>
 </project>
