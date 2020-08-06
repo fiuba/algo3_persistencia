@@ -2,10 +2,11 @@
 
 ![Persistencia][imagen_dali]
 
-En este repo encontraran dos repositorios
+En este repo encontraran tres repositorios:
 
 - native: Implementación de persistencia utilizando las herramientas nativas de java
 - xml: Implementación de Persistencia utilizando xml + una Implementación de serialización específica por clase.
+- json: Implementación de Persistencia utilizando json + una Implementación de serialización específica por clase.
 
 ## Presentaciones
 
